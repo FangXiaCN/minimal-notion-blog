@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Build websites with Notion',
-  domain: 'jotzilla.vercel.app',
-  author: 'Jotzilla',
+  name: 'personal website',
+  domain: 'https://wax-lentil-519.notion.site/Personal-Home-f96855a029604a7c9fcd93fc48d61b05',
+  author: 'lixianrui',
 
   // open graph metadata (optional)
   description: 'Learn how to build websites with Notion. This website is an example starter site powered by Notion. Built on top of NotionX.',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Learn how to build websites with Notion. This website is an example starter site powered by Notion. Built on top of NotionX.',
 
   // social usernames (optional)
-  twitter: 'jotzilla',
-  github: 'jotzilla',
-  linkedin: 'jotzilla',
+  twitter: '',
+  github: 'fangxia',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
